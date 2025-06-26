@@ -13,6 +13,12 @@ A lightweight Python script to clean and extract URLs from raw logs or messy tex
 
 ---
 
+## 🧪 Try it on Google Colab
+
+▶️ [**Open in Colab**](https://colab.research.google.com/github/Darkwarrior247/Link-Cleaner-Tool/blob/main/Link-Cleaner-Tool.ipynb)
+
+---
+
 ## 🛠️ Usage  
 
 ### **Method 1: Jupyter Notebook**  
